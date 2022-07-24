@@ -9,4 +9,4 @@ The update to this project is:
  - update most code to API 2
  - Allow drawing of hexagons to fill the border edge
  
-![](https://github.com/eugenedakin/CSharpDLLXojo/blob/master/CSharpXojoScreenGrab.png)
+![](https://github.com/eugenedakin/Hexagonal-Grid-Xojo-Version-2/blob/main/HexagonXojoVer2.xojo_binary_project)
